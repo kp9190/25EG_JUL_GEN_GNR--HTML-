@@ -40,6 +40,11 @@ html 5.0 --> 2014
 
 
 
+images
+pic
+videos
+audio
+fig
 
 
  
